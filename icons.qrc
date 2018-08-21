@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/CoreAction.svg</file>
+    </qresource>
+</RCC>
