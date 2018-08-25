@@ -20,7 +20,7 @@ along with this program; if not, see {http://www.gnu.org/licenses/}. */
 #include <QWidget>
 #include <QTimer>
 
-#include "utilities/utilities.h"
+#include <cprime/utilities.h>
 #include "dashboard/info_manager.h"
 
 

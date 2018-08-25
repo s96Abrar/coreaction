@@ -37,10 +37,10 @@ along with this program; if not, see {http://www.gnu.org/licenses/}. */
 #include <QFile>
 #include <QDoubleValidator>
 
-#include "settings/settingsmanage.h"
-#include "utilities/globalfunctions.h"
-#include "about/about.h"
-#include "coreshot/coreshotdialog.h"
+#include <cprime/globalfunctions.h>
+#include <cprime/settingsmanage.h>
+//#include "about/about.h"
+//#include "coreshot/coreshotdialog.h"
 
 
 namespace Ui {

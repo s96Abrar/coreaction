@@ -21,7 +21,7 @@ along with this program; if not, see {http://www.gnu.org/licenses/}. */
 #include <QDebug>
 #include <QDoubleValidator>
 
-#include "utilities/utilities.h"
+#include <cprime/utilities.h>
 
 
 namespace Ui {
