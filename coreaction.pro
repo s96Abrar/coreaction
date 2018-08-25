@@ -10,8 +10,8 @@ TARGET = coreaction
 TEMPLATE = app
 
 # library for theme and components
-unix:!macx: LIBS += /usr/lib/libcprime.a
-unix:!macx: LIBS += /usr/lib/libcsys.a
+unix:!macx: LIBS += -lcprime
+unix:!macx: LIBS += -lcsys
 
 FORMS += \
     coreaction.ui \
